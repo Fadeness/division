@@ -1,4 +1,5 @@
 # division
+a simple tool for the game Tom Clancy's the Division
 
 ## Project setup
 ```
@@ -27,4 +28,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-a simple tool for the game Tom Clancy's the Division
+
